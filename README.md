@@ -37,12 +37,12 @@ Si vous appréciez mes projets de traduction et souhaitez soutenir mon travail :
 
 <p align="center">
   <img src="5.png" width="45%">
-  <img src="8.jpg" width="45%">
+  <img src="8.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="9.jpg" width="45%">
-  <img src="/8.jpg" width="45%">
+  <img src="9.png" width="45%">
+  <img src="2.png" width="45%">
 </p>
 
 ## Crédits
