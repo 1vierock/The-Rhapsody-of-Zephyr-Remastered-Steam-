@@ -26,8 +26,8 @@ Si vous appréciez mes projets de traduction et souhaitez soutenir mon travail :
 ## Captures d'écran
 
 <p align="center">
-  <img src="6.png" width="45%">
-  <img src="7.png width="45%">
+  <img src="6.png" width="50%">
+  <img src="7.png width="50%">
 </p>
 
 <p align="center">
