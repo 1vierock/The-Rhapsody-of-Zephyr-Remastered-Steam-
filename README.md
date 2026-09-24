@@ -26,17 +26,17 @@ Si vous appréciez mes projets de traduction et souhaitez soutenir mon travail :
 ## Captures d'écran
 
 <p align="center">
-  <img src="1.jpg" width="45%">
-  <img src="2.jpg width="45%">
+  <img src="1.png" width="45%">
+  <img src="2.png width="45%">
 </p>
 
 <p align="center">
-  <img src="3.jpg" width="45%">
-  <img src="4.jpg" width="45%">
+  <img src="3.png" width="45%">
+  <img src="4.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="5.jpg" width="45%">
+  <img src="5.png" width="45%">
   <img src="6.jpg" width="45%">
 </p>
 
