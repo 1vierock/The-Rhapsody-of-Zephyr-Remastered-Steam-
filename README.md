@@ -17,7 +17,7 @@ Si vous appréciez mes projets de traduction et souhaitez soutenir mon travail :
 ## Installation
 
 1. Procurez-vous votre propre copie du jeu original **The-Rhapsody-of-Zephyr-Remastered** sur Steam
-2. Téléchargez le dernier patch de traduction française depuis la page [Releases](../../releases).
+2. Téléchargez le dernier patch de traduction française depuis la page [[Releases](../../releases)](https://store.steampowered.com/app/5099430/_/).
 3. Simplement placer ZephyrRemastered_Data dans le dossier et tout remplacer.
 4. Lancez le jeu .
 
